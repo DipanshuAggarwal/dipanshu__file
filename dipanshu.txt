@@ -3,3 +3,7 @@ new changes commit
 new checkout command 
 new practice lab 2
 new lab2 practice
+new changes commit
+new checkout command
+changes occur inside repository
+commit changes
